@@ -13,10 +13,18 @@ If there’s a tie, then the game ends in a draw.
 
 <strong>For playing the game from your terminal:</strong>
 
-***1. If you have installed NodeJs runtime***, simply clone the repository and execute the following command:
+***1. If you have installed NodeJs runtime***: clone the repository and open the corresponding folder:
+
+```
+git clone 
+cd mini_projects_catalogue/
+cd rockPaperScissors/
+```
+
+Execute the program:
 
 ```javascript
 node rockPaperScissors.js
 ```
 
-***2. If you don't have NodeJs runtime environment*** then go to <a href="https://nodejs.org/en/" target="_blank">NodeJs Runtime Environment Download</a> and download it. Once downloaded, go to step 1.
+***2. If you don't have NodeJs runtime environment*** installed: go to <a href="https://nodejs.org/en/" target="_blank">NodeJs Runtime Environment Download</a> and download it. Once installed, go to step 1.
