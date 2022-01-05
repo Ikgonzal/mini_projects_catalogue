@@ -13,20 +13,7 @@ If there’s a tie, then the game ends in a draw.
 <strong>For playing the game from your terminal:</strong>
 <br>
 If you have installed NodeJs runtime, simply clone the repository and execute:
-```
+```javascript
 node rockPaperScissors.js
-```
-```
-make all
-```
-Execute in two separate terminal tabs.
-### Server
-```
-./server
-```
-### Client
-Read the PID from server and pass it as parameter along with a string of your choice.
-```
-./client PID STRING
 ```
 
