@@ -29,4 +29,4 @@ node rockPaperScissors.js
 
 ***2. If you don't have NodeJs runtime environment*** installed: go to <a href="https://nodejs.org/en/" target="_blank">NodeJs Runtime Environment Download</a> and download it. Once installed, go to step 1.
 
-Hint: try to type 'bomb' 💣 and see what happens!
+<em>hint: try to type 'bomb' 💣 and see what happens!</em>
