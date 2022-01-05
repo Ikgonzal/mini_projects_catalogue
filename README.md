@@ -17,3 +17,4 @@ If you have installed NodeJs runtime, simply clone the repository and execute:
 ```
 node rockPaperScissors.js
 ```
+- [x] #739
