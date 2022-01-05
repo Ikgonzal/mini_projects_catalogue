@@ -19,4 +19,4 @@ If there’s a tie, then the game ends in a draw.
 node rockPaperScissors.js
 ```
 
-***2. If you don't have NodeJs runtime environment*** then go to <a href="https://nodejs.org/en/" target="_blank">NodeJs Runtime Environment Download</a> and Download it. Once downloanded, go to step 1.
+***2. If you don't have NodeJs runtime environment*** then go to <a href="https://nodejs.org/en/" target="_blank">NodeJs Runtime Environment Download</a> and download it. Once downloaded, go to step 1.
