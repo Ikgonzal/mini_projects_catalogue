@@ -16,4 +16,17 @@ If you have installed NodeJs runtime, simply clone the repository and execute:
 ```
 node rockPaperScissors.js
 ```
+```
+make all
+```
+Execute in two separate terminal tabs.
+### Server
+```
+./server
+```
+### Client
+Read the PID from server and pass it as parameter along with a string of your choice.
+```
+./client PID STRING
+```
 
