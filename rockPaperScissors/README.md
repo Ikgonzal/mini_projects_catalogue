@@ -13,7 +13,7 @@ If there’s a tie, then the game ends in a draw.
 
 <strong>For playing the game from your terminal:</strong>
 
-***1. If you have installed NodeJs runtime***: clone the repository and open the corresponding folder:
+***1. If you have installed NodeJs runtime*** -- clone the repository and open the corresponding folder:
 
 ```
 git clone 
@@ -27,6 +27,6 @@ Execute the program:
 node rockPaperScissors.js
 ```
 
-***2. If you don't have NodeJs runtime environment*** installed: go to <a href="https://nodejs.org/en/" target="_blank">NodeJs Runtime Environment Download</a> and download it. Once installed, go to step 1.
+***2. If you don't have NodeJs runtime environment*** installed -- go to <a href="https://nodejs.org/en/" target="_blank">NodeJs Runtime Environment Download</a> and download it. Once installed, go to step 1.
 
 <em>hint: try to type 'bomb' 💣 and see what happens!</em>
