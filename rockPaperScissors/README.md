@@ -16,7 +16,7 @@ If there’s a tie, then the game ends in a draw.
 ***1. If you have installed NodeJs runtime*** -- clone the repository and open the corresponding folder:
 
 ```
-git clone 
+git clone https://github.com/ikgonzal/mini_projects_catalogue.git
 cd mini_projects_catalogue/
 cd rockPaperScissors/
 ```
