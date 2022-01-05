@@ -1,3 +1,3 @@
 # mini_projects_catalogue
 
-1) ##Rock 🗿 Paper 🧻 Scissors ✂️
+1) ##Rock 🗿 Paper 🧻 Scissors ✂️##
