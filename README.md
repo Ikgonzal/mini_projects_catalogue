@@ -14,6 +14,6 @@ If there’s a tie, then the game ends in a draw.
 <br>
 If you have installed NodeJs runtime, simply clone the repository and execute:
 <br>
-```javaScript
+```
 node rockPaperScissors.js
 ```
