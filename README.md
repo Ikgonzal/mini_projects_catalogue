@@ -5,3 +5,7 @@
 
 ### 2) Weight Planet Calculator 🌍⭐🌙
 > This program enables you to discover the weight of any object, even yourself, in any of the planets contemplated. Currently, available planets include: ***Mercury, Mars, Venus, Jupiter and Saturn***.
+
+### 3) Whale Talk 🐋
+
+> Take any given phrase like ‘turpentine and turtles’ and translate it into its “whale talk” equivalent: ‘UUEEIEEAUUEE’. There are a few simple rules for translating text to whale language: ***there are no consonants*** (only vowels excluding “y”) and ***the u‘s and e‘s are extra long***, so we must double them in our program.
