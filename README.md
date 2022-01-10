@@ -9,3 +9,7 @@
 ### 3) Whale Talk 🐋
 
 > Take any given phrase like ‘turpentine and turtles’ and translate it into its “whale talk” equivalent: ‘UUEEIEEAUUEE’. There are a few simple rules for translating text to whale language: ***there are no consonants*** (only vowels excluding “y”) and ***the u‘s and e‘s are extra long***, so we must double them in our program.
+
+## 4) Meal Maker 🥗🥩🧁
+
+> This program will randomly create a three-course meal based on what is available on a menu.
