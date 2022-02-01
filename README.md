@@ -13,3 +13,7 @@
 ### 4) Meal Maker 🥗🥩🧁
 
 > This program will randomly create a three-course meal based on what is available on a menu.
+
+### 5) Lodash Library 📚
+
+In this project, I have implemented some of the most exciting functionality from the widely-popular [lodash.js library](https://lodash.com/docs/4.17.15) which provides many methods that add new functionality for numbers, strings, objects, and arrays.
