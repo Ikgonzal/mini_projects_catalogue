@@ -31,14 +31,14 @@
 [Link to code](https://github.com/iker-gonzalez/mini_projects_catalogue/blob/main/08_mixed_Messages/mixed_Messages.js)
 > For this project, I have build a message generator program. Every time a user runs a program, they should get a new, randomized output. I have made this program around three main pieces of data: [animals, verbs, adjectives]. Have some fun getting to know each animal!
 
-### 9) Healthy Reciped 🥬  🌽  🥦
+### 9) Healthy Recipes 🥬  🌽  🥦
 
-## 10) Magic 8-Ball 🎱
+### 10) Magic 8-Ball 🎱
 >The [Magic 8-Ball](https://en.wikipedia.org/wiki/Magic_8-ball) is a super popular toy used for fortune-telling or seeking advice, developed in the 1950s!
 
 Our program will output a random fortune each time it executes.
 
-## 11) Harry Potter Sorting Hat ♠︎♣︎♥︎♦︎
+### 11) Harry Potter Sorting Hat ♠︎♣︎♥︎♦︎
 >“A thousand years or more ago,
 >When I was newly sewn,
 >There lived four wizards of renown,
