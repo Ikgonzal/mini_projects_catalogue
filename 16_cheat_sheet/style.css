@@ -1,0 +1,25 @@
+table, th, td, tr {
+	border: 1px solid black;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+}
+  
+th {
+	  background-color: pink;
+}
+
+h1 {
+	text-align: center;
+}
+
+.code {
+	background-color: beige;
+}
+
+body {
+	background-color: rgb(218, 228, 230);
+	font-family: monospace;
+	font-size: 15px;
+}
