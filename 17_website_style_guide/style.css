@@ -17,6 +17,7 @@ div {
     margin: 10px auto;
 }
 
+/*color*/
 .color-container {
     width: 100%;
 }
@@ -25,22 +26,100 @@ div {
     display: inline-block;
     width: 32%;
     text-align: center;
-    margin: 20px auto;
+    margin: 20px 20px;
     min-height: 100px;
 }
 
 .blue {
-    background-color: blue;
+    background-color: #127be3;
 }
 
 .orange {
-    background-color: orange;
+    background-color: #eb9e10;
 }
 
 .red {
-    background-color: red;
+    background-color: #e01919;
 }
 
 .green {
-    background-color: green;
+    background-color: #13d13c;
 }
+
+/*font*/
+
+.font-title {
+    text-decoration: underline;
+}
+
+.font-panel {
+    display: inline-block;
+    font-size: 20px;
+    margin: 20px 30px;
+    width: 32%;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.lucida-sans {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.arial {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.times-new-roman {
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+.gill-sans {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+/*style*/
+
+.style-panel {
+    display: inline-block;
+    margin: 20px 30px;
+    width: 32%;
+}
+
+.style-list {
+    margin-bottom: 10px;
+}
+
+.h1, h1 {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Nunito Sans';
+}
+
+.h3, h3 {
+    font-size: 24px;
+    font-weight:600;
+    font-family: 'Nunito Sans';
+}
+
+.p, p {
+    font-size: 18px;
+    font-weight:normal;
+    font-family: 'Nunito Sans';
+}
+
+.a, a {
+    font-size: 18px;
+    color:#127be3;
+    text-decoration: underline;
+}
+
+
+
+
