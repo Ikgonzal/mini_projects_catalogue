@@ -39,11 +39,26 @@ html {
 
 /*cover section*/
 
+.cover {
+    position: relative;
+    text-align: center;
+}
+
 .background-img {
     width: 1200px;
     height: 700px;
-    display: block;
+    /*display: block;
     margin: auto;
     position: absolute;
+    background-color: black;*/
+}
+
+.cover-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     background-color: black;
+    display: inline-block;
+    width: 100%;
 }
