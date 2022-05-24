@@ -8,28 +8,33 @@ html {
 
 /*header section */
 
-.header-container {
+.site-header {
     height: 69px;
     border-bottom: 1px solid seashell;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.site-header__wrapper {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-.logo-item {
+.brand {
     margin-left: 10px;
     vertical-align: middle;
     height: 50px;
     display: inline-flex;
     justify-content: flex-start;
-
 }
 
-.menu-items {
-    column-gap: 25px;
-    text-decoration: underline;
+.menu {
+    list-style-type: none;
     display: inline-flex;
-    margin: 15px 15px 15px 15px;
+    column-gap: 25px;
+    margin-right: 10px;
+    text-decoration: underline;
 }
 
 /*cover section*/
