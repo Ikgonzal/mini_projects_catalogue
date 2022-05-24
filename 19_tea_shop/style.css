@@ -1,0 +1,44 @@
+html {
+    background-color: black;
+    font-family: Helvetica;
+    font-size: 22px;
+    color: seashell;
+    opacity: 0.9;
+}
+
+/*header section */
+
+.header-container {
+    height: 69px;
+    border-bottom: 1px solid seashell;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-item {
+    margin-left: 10px;
+    vertical-align: middle;
+    height: 50px;
+    display: inline-flex;
+    justify-content: flex-start;
+
+}
+
+.menu-items {
+    column-gap: 25px;
+    text-decoration: underline;
+    display: inline-flex;
+    margin: 15px 15px 15px 15px;
+}
+
+/*cover section*/
+
+.background-img {
+    width: 1200px;
+    height: 700px;
+    display: block;
+    margin: auto;
+    position: absolute;
+    background-color: black;
+}
