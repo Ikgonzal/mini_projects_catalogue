@@ -11,6 +11,11 @@ h2 {
     padding: 50px;
 }
 
+a {
+    text-decoration: none;
+    color: white;
+}
+
 /*cover*/
 
 .cover {
