@@ -53,7 +53,6 @@ h2 {
 
 .club .left-top {
     grid-area: 1 / 1 / span 1 / span 1;
-    background-color: lightcoral;
 }
 
 .club .right-top {
@@ -88,7 +87,7 @@ h2 {
 .grid.memberships {
     display: grid;
     grid-template: 100px 1fr / repeat(3, 1fr);
-    height: 20rem;
+    height: 42rem;
     max-width: 100%;
     column-gap: 20px;
 }
@@ -108,8 +107,54 @@ h2 {
     margin-top: 5rem;
 }
 
-.memberships li {
+.memberships p {
     align-self: center;
     text-align: center;
     list-style-type: none;
+    font-size: 1.2rem;
+}
+
+/*contact*/
+
+.contact-info {
+    display: grid;
+    grid-template: 1fr / 1.5fr 1fr;
+    background-color: lightgoldenrodyellow;
+    height: 15rem;
+    padding-top: 1rem;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@600&display=swap');
+
+.contact-info h2 {
+    font-family: 'Noto Sans';
+    background-color: transparent;
+    text-align: left;
+    margin-left: 2rem;
+    margin-bottom: 0px;
+    opacity: 1;
+}
+
+.contact-info p{
+    font-size: 1.5rem;
+    text-align: left;
+    margin-left: 5rem;
+    opacity: 1;
+    margin-top: 0px;
+
+}
+
+.copyrights {
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+    margin: unset;
+    padding: 20px;
+}
+
+button {
+    margin-top: 1.5rem;
+    background-color: rgb(17, 90, 173);
+    padding: 12px;
+    border-radius: 10px;
+    color: white;
 }
