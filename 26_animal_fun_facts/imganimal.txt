@@ -1,0 +1,1 @@
+Image bank should be included in this directory for the app to run properly.
